@@ -4,7 +4,7 @@
   <title><![CDATA[kogax.github.com]]></title>
   <link href="http://kogax.github.com/atom.xml" rel="self"/>
   <link href="http://kogax.github.com/"/>
-  <updated>2013-02-04T17:50:56+09:00</updated>
+  <updated>2013-02-04T18:56:01+09:00</updated>
   <id>http://kogax.github.com/</id>
   <author>
     <name><![CDATA[kogax]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[hello]]></title>
+    <title type="html"><![CDATA[hello world]]></title>
     <link href="http://kogax.github.com/blog/2013/02/04/hello/"/>
     <updated>2013-02-04T17:44:00+09:00</updated>
     <id>http://kogax.github.com/blog/2013/02/04/hello</id>
