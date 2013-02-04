@@ -4,7 +4,7 @@
   <title><![CDATA[kogax.github.com]]></title>
   <link href="http://kogax.github.com/atom.xml" rel="self"/>
   <link href="http://kogax.github.com/"/>
-  <updated>2013-02-04T17:43:22+09:00</updated>
+  <updated>2013-02-04T17:50:10+09:00</updated>
   <id>http://kogax.github.com/</id>
   <author>
     <name><![CDATA[kogax]]></name>
@@ -12,5 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello]]></title>
+    <link href="http://kogax.github.com/blog/2013/02/04/hello/"/>
+    <updated>2013-02-04T17:44:00+09:00</updated>
+    <id>http://kogax.github.com/blog/2013/02/04/hello</id>
+    <content type="html"><![CDATA[<h1>test h1</h1>
+
+<p>h1の中身だよ</p>
+
+<h2>test エイチ２</h2>
+
+<p>h2の中身だよ</p>
+
+<blockquote><p>引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。引用とかしてみるよ。</p></blockquote>
+
+<p>引用おわったよ。</p>
+
+<ul>
+<li>list1</li>
+<li><p>list2</p></li>
+<li><p>hoge</p></li>
+<li>foo</li>
+</ul>
+
+
+<p>rubyのコードを書いてみよう</p>
+
+<p>  10.times do</p>
+
+<pre><code>puts "hello, world"
+</code></pre>
+
+<p>  end</p>
+
+<p>そんな感じー</p>
+]]></content>
+  </entry>
   
 </feed>
