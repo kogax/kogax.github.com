@@ -4,7 +4,7 @@
   <title><![CDATA[kogax.github.com]]></title>
   <link href="http://kogax.github.com/atom.xml" rel="self"/>
   <link href="http://kogax.github.com/"/>
-  <updated>2013-02-04T17:50:10+09:00</updated>
+  <updated>2013-02-04T17:50:56+09:00</updated>
   <id>http://kogax.github.com/</id>
   <author>
     <name><![CDATA[kogax]]></name>
@@ -40,12 +40,10 @@
 
 <p>rubyのコードを書いてみよう</p>
 
-<p>  10.times do</p>
-
-<pre><code>puts "hello, world"
+<pre><code>10.times do
+  puts "hello, world"
+end
 </code></pre>
-
-<p>  end</p>
 
 <p>そんな感じー</p>
 ]]></content>
